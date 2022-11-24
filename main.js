@@ -1,1 +1,1 @@
-print_r("HelloWord");
+console.log("HelloWord");
